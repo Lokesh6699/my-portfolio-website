@@ -18,7 +18,7 @@ export const siteConfig = {
   // --- HERO ---
   hero: {
     eyebrow: 'Goa Trip Planner · Est. Local Expertise',
-    fullName: 'Pradeep',
+    fullName: 'Pawan',
     title: 'Your Local Goa Trip Planner',
     headline: 'Handcrafted Goa holidays, planned by someone who actually lives here.',
     subheadline:
